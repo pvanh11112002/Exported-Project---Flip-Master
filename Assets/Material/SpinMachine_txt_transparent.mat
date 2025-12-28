@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpinMachine_txt_transparent
+  m_Shader: {fileID: 4800000, guid: d27e34f05f6f3844ea72bc2aa3985def, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHAPREMULTIPLY_ON
+  - _CAPABERRATIONVALUES_ON
+  - _CAPEXTINCTIONVALUES_ON
+  - _DOUBLEDEPTHPASS_ON
+  - _EMISSION
+  - _ENABLEABERRATION_ON
+  - _ENABLECOLOUREXTINCTION_ON
+  - _ENABLEDISTORTION_ON
+  - _ENABLEFOG_ON
+  - _USECAMERANORMAL_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: bbad23756a3ddd740836fa18485bf2ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _Alpha: 1
+      _Blend_Dest: 10
+      _Blend_Source: 5
+      _BumpMagnitude: 1
+      _BumpScale: 1
+      _CapAberrationValues: 1
+      _CapExtinctionValues: 1
+      _CullMode: 0
+      _Cutoff: 0
+      _DepthBackDistance: 5000
+      _DepthFrontDistance: 5000
+      _DepthMagnitude: 1
+      _DepthOffset: 0
+      _DepthOtherDistance: 5000
+      _DetailNormalMapScale: 1
+      _DisableBackFace: 0
+      _DistortionDepthFade: 0.1
+      _DistortionEdgeBend: 0.3
+      _DoubleDepthPass: 1
+      _DstBlend: 10
+      _DstBlendOutline: 0
+      _DstBlendTCP2: 10
+      _EnableAberration: 1
+      _EnableColourExtinction: 1
+      _EnableDistortion: 1
+      _EnableFog: 1
+      _FlipUV_Depth: 0
+      _FlipUV_Grab: 0
+      _FogMagnitude: 1
+      _GlassShader_DepthTechnique: 2
+      _GlassShader_NormalTechnique: 2
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _Glow: 0
+      _InvFade: 0.45
+      _Metallic: 0
+      _Mode: 3
+      _OcclusionStrength: 1
+      _Offset1: 0
+      _Offset2: 0
+      _Opacity: 0
+      _Outline: 1
+      _Parallax: 0.02
+      _RampSmooth: 0.533
+      _RampThreshold: 0.491
+      _RimMax: 1
+      _RimMin: 0.5
+      _Shininess: 0.17
+      _SmoothnessTextureChannel: 0
+      _SpecSmooth: 0.05
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _SrcBlendOutline: 0
+      _SrcBlendTCP2: 1
+      _TexLod: 5
+      _UVSec: 0
+      _UseCameraNormal: 1
+      _ZSmooth: -0.5
+      _ZWrite: 0
+    m_Colors:
+      _Aberration: {r: 0.1, g: 0.033, b: 0.00666, a: 1}
+      _AberrationMagnitude: {r: 1, g: 0, b: 0.1, a: 1}
+      _CameraNormal: {r: 0, g: 1, b: 0, a: 1}
+      _Color: {r: 0.08190959, g: 0.10800505, b: 0.1102941, a: 0.491}
+      _ColourExtinction: {r: 0.1, g: 0.033, b: 0.00666, a: 1}
+      _ColourExtinctionMagnitude: {r: 1, g: 0, b: 1, a: 1}
+      _DepthColourFar: {r: 0, g: 0, b: 0, a: 0}
+      _DepthColourNear: {r: 0, g: 0, b: 0, a: 0}
+      _DistortionIntensity: {r: 0.1, g: 0.1, b: 1, a: 1}
+      _EmisColor: {r: 0.2, g: 0.2, b: 0.2, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _HColor: {r: 1, g: 1, b: 1, a: 1}
+      _MainTexIntensity: {r: 1, g: 1, b: 1, a: 0}
+      _OutlineColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+      _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}
+      _SColor: {r: 0, g: 0, b: 0, a: 1}
+      _SpecColor: {r: 0.22794116, g: 0.22794116, b: 0.22794116, a: 0}
+      _TintColor: {r: 0.16911763, g: 0.16663061, b: 0.16663061, a: 0.178}
+  m_BuildTextureStacks: []
